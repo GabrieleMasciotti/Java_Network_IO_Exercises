@@ -1,0 +1,5 @@
+Codici terminale per compilare ed eseguire codice java che importa librerie esterne:
+
+compilazione → javac -cp .:jackson-core-2.9.7.jar:jackson-annotations-2.9.7.jar:jackson-databind-2.9.7.jar 
+
+esecuzione → java -cp .:jackson-core-2.9.7.jar:jackson-annotations-2.9.7.jar:jackson-databind-2.9.7.jar 
